@@ -24,9 +24,7 @@ ca/
 ├── Task5.pdf          # Task 5: Storage Classes (4 ways)
 ├── Task6.pdf          # Task 6: Canteen Inventory & Billing
 │
-├── K.VAMSI KUMAR REDDY_192312670L.odt   # ODF report (Computer Networks)
-├── K.VAMSI KUMAR REDDY_192312670L.pdf   # PDF report
-├── Common Assignment CSA0712.pdf        # Original assignment
+
 │
 └── network_firewall_monitor/            # Separate Computer Networks project
 📚 Task Details
@@ -147,8 +145,8 @@ Task3.pdf — Unions and Memory Layout
 Task4.pdf — Structure Forensics
 Task5.pdf — Storage Classes
 Task6.pdf — Canteen Inventory & Billing
-🔗 GitHub Repository
-Computer Networks Assignment: https://github.com/vamsikumarreddy029-bot/CSA07-192312670L-Common_Assignment
+
+
 
 ✅ Viva Quick Revision
 Structure stores ALL members; union SHARES storage
